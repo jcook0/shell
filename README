@@ -1,0 +1,14 @@
+
+Name: Justin Cook
+UGAID: 811135826
+
+Instructions:
+	To compile the source files into an executable program, run the command
+		$  make
+	To execute it 
+		$ ./shell
+	
+	Cleanup executables and object code
+		$ make clean
+
+
